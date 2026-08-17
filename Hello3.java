@@ -3,6 +3,10 @@ public class Hello3 {
 
         int i = 0;
 
+        int j = 99;
+
+        System.out.println(j);
+
         do {
             System.out.print(i + " ");
         } while (i < 1000);
